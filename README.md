@@ -6,7 +6,7 @@
 <hr>
 <h2>Working of Project</h2>
 <p>The user runs the script and the script asks to enter the file name or complete path of the .xlsx file.<br>
-  Then, user, I have to choose a social media platform like Facebook, Twitter, or Instagram.</b>.<br>
+  Then, user, I have to choose a social media platform like <b>Facebook, Twitter, or Instagram.</b>.<br>
   After that user enters the column name where the websites are present and also the column<br>
   name where social media accounts are going to save. if any of the column names is incorrectly provided<br>
   by the user then the script tells the user to please enter the correct column name and after that script<br>
